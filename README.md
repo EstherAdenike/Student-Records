@@ -1,4 +1,3 @@
----
 
 # Student Records Database (StudentRecordsDB)
 
